@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PNW Ski Conditions</string>
+    <string name="snoqualmie">Snoqualmie Pass</string>
+    <string name="snoqualmie_comments">Snow Reporter\'s Comments</string>
+    <string name="snoqualmie_areas">Select an area to view conditions</string>
+    <string-array name="snoqualmie_array">
+        <item>Alpental</item>
+        <item>Alpental Mid</item>
+        <item>Alpental Top</item>
+        <item>Summit West</item>
+    </string-array>
 </resources>
